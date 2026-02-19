@@ -15,18 +15,18 @@ Notes:
 
 ## Digital
 
-### Digital Hi Res (digital_hi_res)
+### Digital Hi-Res (digital_hi_res)
 
 | Format | Releases |
 | --- | ---: |
-| Blu-ray | 6,953 |
-| Hybrid SACD | 4,964 |
-| HDCD | 3,934 |
-| SACD | 3,210 |
-| Hybrid SACD (SACD layer, 2 channels) | 2,184 |
-| Hybrid SACD (SACD layer, multichannel) | 1,149 |
+| Blu-ray | 6,978 |
+| Hybrid SACD | 4,957 |
+| HDCD | 3,935 |
+| SACD | 3,212 |
+| Hybrid SACD (SACD layer, 2 channels) | 2,187 |
+| Hybrid SACD (SACD layer, multichannel) | 1,151 |
 | DVD-Audio | 1,004 |
-| Hybrid SACD (SACD layer) | 542 |
+| Hybrid SACD (SACD layer) | 539 |
 | SACD (2 channels) | 304 |
 | SHM-SACD | 288 |
 | SHM-SACD (2 channels) | 138 |
@@ -40,30 +40,30 @@ Notes:
 | Minimax DVD-Audio | 1 |
 | SHM-SACD (multichannel) | 1 |
 
-### Digital Cd Quality (digital_cd_quality)
+### Digital CD Quality (digital_cd_quality)
 
 | Format | Releases |
 | --- | ---: |
-| Digital Media | 2,508,843 |
-| CD | 2,159,183 |
-| CD-R | 65,860 |
-| Enhanced CD | 12,165 |
-| 8cm CD | 11,389 |
-| SHM-CD | 4,513 |
-| Copy Control CD | 3,500 |
-| Hybrid SACD (CD layer) | 2,669 |
-| Data CD | 1,931 |
-| Blu-spec CD | 1,642 |
+| Digital Media | 2,515,871 |
+| CD | 2,160,976 |
+| CD-R | 65,929 |
+| Enhanced CD | 12,175 |
+| 8cm CD | 11,396 |
+| SHM-CD | 4,516 |
+| Copy Control CD | 3,501 |
+| Hybrid SACD (CD layer) | 2,680 |
+| Data CD | 1,932 |
+| Blu-spec CD | 1,644 |
 | HQCD | 1,069 |
-| Mixed Mode CD | 912 |
+| Mixed Mode CD | 913 |
 | DAT | 651 |
 | CD+G | 348 |
 | DualDisc (CD side) | 283 |
 | CDV | 173 |
 | DTS CD | 146 |
 | 8cm CD+G | 131 |
-| Minimax CD | 54 |
-| 8cm CD-R | 31 |
+| Minimax CD | 55 |
+| 8cm CD-R | 33 |
 | DVDplus (CD side) | 14 |
 | Compact Disc | - |
 
@@ -71,8 +71,8 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| DVD-Video | 29,392 |
-| DVD | 8,670 |
+| DVD-Video | 29,422 |
+| DVD | 8,677 |
 | VCD | 470 |
 | DualDisc | 208 |
 | DVD-R Video | 199 |
@@ -90,7 +90,7 @@ Notes:
 | Minimax DVD-Video | 1 |
 | Minimax DVD | - |
 
-### Digital Compressed Or Legacy (digital_compressed_or_legacy)
+### Digital Compressed or Legacy (digital_compressed_or_legacy)
 
 | Format | Releases |
 | --- | ---: |
@@ -101,7 +101,7 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| USB Flash Drive | 1,183 |
+| USB Flash Drive | 1,197 |
 | Download Card | 1,181 |
 | 3.5" Floppy Disk | 88 |
 | KiT Album | 81 |
@@ -119,7 +119,7 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| Other | 929 |
+| Other | 934 |
 | Unknown | - |
 
 ## Analog
@@ -128,17 +128,17 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| 12" Vinyl | 429,332 |
-| 7" Vinyl | 152,983 |
-| Vinyl | 40,015 |
-| 10" Vinyl | 10,944 |
+| 12" Vinyl | 429,884 |
+| 7" Vinyl | 153,199 |
+| Vinyl | 40,073 |
+| 10" Vinyl | 10,957 |
 | 3" Vinyl | 39 |
 
 ### Analog Other Discs (analog_other_discs)
 
 | Format | Releases |
 | --- | ---: |
-| Phonograph record | 1,090 |
+| Phonograph record | 1,093 |
 | 7" Flexi-disc | 1,050 |
 | Flexi-disc | 293 |
 | Edison Diamond Disc | 161 |
@@ -152,10 +152,10 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| Cassette | 80,789 |
+| Cassette | 80,927 |
 | Reel-to-reel | 554 |
 | 8-Track Cartridge | 545 |
-| Cartridge | 79 |
+| Cartridge | 80 |
 | Microcassette | 57 |
 | PlayTape | 10 |
 | HiPac | 1 |
@@ -164,7 +164,7 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| VHS | 1,326 |
+| VHS | 1,340 |
 | LaserDisc | 173 |
 | 12" LaserDisc | 113 |
 | Betacam SP | 40 |
@@ -186,8 +186,8 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| 10" Shellac | 26,461 |
-| Shellac | 686 |
+| 10" Shellac | 26,464 |
+| Shellac | 696 |
 | 12" Shellac | 462 |
 | 7" Shellac | 117 |
 
