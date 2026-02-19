@@ -19,11 +19,11 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| Blu-ray | 6,947 |
-| Hybrid SACD | 4,965 |
-| HDCD | 3,932 |
-| SACD | 3,209 |
-| Hybrid SACD (SACD layer, 2 channels) | 2,181 |
+| Blu-ray | 6,953 |
+| Hybrid SACD | 4,964 |
+| HDCD | 3,934 |
+| SACD | 3,210 |
+| Hybrid SACD (SACD layer, 2 channels) | 2,184 |
 | Hybrid SACD (SACD layer, multichannel) | 1,149 |
 | DVD-Audio | 1,004 |
 | Hybrid SACD (SACD layer) | 542 |
@@ -44,18 +44,18 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| Digital Media | 2,506,866 |
-| CD | 2,158,615 |
-| CD-R | 65,832 |
-| Enhanced CD | 12,163 |
-| 8cm CD | 11,387 |
-| SHM-CD | 4,512 |
-| Copy Control CD | 3,498 |
-| Hybrid SACD (CD layer) | 2,666 |
-| Data CD | 1,930 |
+| Digital Media | 2,508,843 |
+| CD | 2,159,183 |
+| CD-R | 65,860 |
+| Enhanced CD | 12,165 |
+| 8cm CD | 11,389 |
+| SHM-CD | 4,513 |
+| Copy Control CD | 3,500 |
+| Hybrid SACD (CD layer) | 2,669 |
+| Data CD | 1,931 |
 | Blu-spec CD | 1,642 |
-| HQCD | 1,067 |
-| Mixed Mode CD | 911 |
+| HQCD | 1,069 |
+| Mixed Mode CD | 912 |
 | DAT | 651 |
 | CD+G | 348 |
 | DualDisc (CD side) | 283 |
@@ -71,7 +71,7 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| DVD-Video | 29,384 |
+| DVD-Video | 29,392 |
 | DVD | 8,670 |
 | VCD | 470 |
 | DualDisc | 208 |
@@ -128,17 +128,17 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| 12" Vinyl | 429,228 |
-| 7" Vinyl | 152,932 |
-| Vinyl | 40,011 |
-| 10" Vinyl | 10,943 |
+| 12" Vinyl | 429,332 |
+| 7" Vinyl | 152,983 |
+| Vinyl | 40,015 |
+| 10" Vinyl | 10,944 |
 | 3" Vinyl | 39 |
 
 ### Analog Other Discs (analog_other_discs)
 
 | Format | Releases |
 | --- | ---: |
-| Phonograph record | 1,085 |
+| Phonograph record | 1,090 |
 | 7" Flexi-disc | 1,050 |
 | Flexi-disc | 293 |
 | Edison Diamond Disc | 161 |
@@ -152,7 +152,7 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| Cassette | 80,758 |
+| Cassette | 80,789 |
 | Reel-to-reel | 554 |
 | 8-Track Cartridge | 545 |
 | Cartridge | 79 |
@@ -186,7 +186,7 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| 10" Shellac | 26,459 |
+| 10" Shellac | 26,461 |
 | Shellac | 686 |
 | 12" Shellac | 462 |
 | 7" Shellac | 117 |
