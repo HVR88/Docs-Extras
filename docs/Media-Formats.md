@@ -2,7 +2,7 @@
 
 This page lists the MusicBrainz release formats grouped into the meta-format buckets used by LM Bridge filtering.
 
-- Release counts are from the MusicBrainz mirror, as of 2026-02-19.
+- Release counts are from the MusicBrainz mirror, as of 2026-02-22.
 
 Notes:
 
@@ -19,18 +19,18 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| Blu-ray | 6,978 |
+| Blu-ray | 6,989 |
 | Hybrid SACD | 4,957 |
-| HDCD | 3,935 |
+| HDCD | 3,936 |
 | SACD | 3,212 |
-| Hybrid SACD (SACD layer, 2 channels) | 2,187 |
-| Hybrid SACD (SACD layer, multichannel) | 1,151 |
+| Hybrid SACD (SACD layer, 2 channels) | 2,194 |
+| Hybrid SACD (SACD layer, multichannel) | 1,152 |
 | DVD-Audio | 1,004 |
 | Hybrid SACD (SACD layer) | 539 |
 | SACD (2 channels) | 304 |
 | SHM-SACD | 288 |
 | SHM-SACD (2 channels) | 138 |
-| SACD (multichannel) | 98 |
+| SACD (multichannel) | 99 |
 | DualDisc (DVD-Audio side) | 89 |
 | Blu-ray-R | 28 |
 | HD-DVD | 10 |
@@ -44,18 +44,18 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| Digital Media | 2,515,871 |
-| CD | 2,160,976 |
-| CD-R | 65,929 |
-| Enhanced CD | 12,175 |
-| 8cm CD | 11,396 |
-| SHM-CD | 4,516 |
+| Digital Media | 2,519,577 |
+| CD | 2,161,929 |
+| CD-R | 65,958 |
+| Enhanced CD | 12,178 |
+| 8cm CD | 11,411 |
+| SHM-CD | 4,518 |
 | Copy Control CD | 3,501 |
-| Hybrid SACD (CD layer) | 2,680 |
+| Hybrid SACD (CD layer) | 2,685 |
 | Data CD | 1,932 |
 | Blu-spec CD | 1,644 |
 | HQCD | 1,069 |
-| Mixed Mode CD | 913 |
+| Mixed Mode CD | 914 |
 | DAT | 651 |
 | CD+G | 348 |
 | DualDisc (CD side) | 283 |
@@ -71,8 +71,8 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| DVD-Video | 29,422 |
-| DVD | 8,677 |
+| DVD-Video | 29,437 |
+| DVD | 8,680 |
 | VCD | 470 |
 | DualDisc | 208 |
 | DVD-R Video | 199 |
@@ -119,7 +119,7 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| Other | 934 |
+| Other | 940 |
 | Unknown | - |
 
 ## Analog
@@ -128,17 +128,17 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| 12" Vinyl | 429,884 |
-| 7" Vinyl | 153,199 |
-| Vinyl | 40,073 |
-| 10" Vinyl | 10,957 |
+| 12" Vinyl | 430,218 |
+| 7" Vinyl | 153,356 |
+| Vinyl | 40,113 |
+| 10" Vinyl | 10,963 |
 | 3" Vinyl | 39 |
 
 ### Analog Other Discs (analog_other_discs)
 
 | Format | Releases |
 | --- | ---: |
-| Phonograph record | 1,093 |
+| Phonograph record | 1,094 |
 | 7" Flexi-disc | 1,050 |
 | Flexi-disc | 293 |
 | Edison Diamond Disc | 161 |
@@ -152,7 +152,7 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| Cassette | 80,927 |
+| Cassette | 80,998 |
 | Reel-to-reel | 554 |
 | 8-Track Cartridge | 545 |
 | Cartridge | 80 |
@@ -164,7 +164,7 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| VHS | 1,340 |
+| VHS | 1,342 |
 | LaserDisc | 173 |
 | 12" LaserDisc | 113 |
 | Betacam SP | 40 |
@@ -186,7 +186,7 @@ Notes:
 
 | Format | Releases |
 | --- | ---: |
-| 10" Shellac | 26,464 |
+| 10" Shellac | 26,466 |
 | Shellac | 696 |
 | 12" Shellac | 462 |
 | 7" Shellac | 117 |
