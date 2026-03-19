@@ -1,15 +1,14 @@
 # Media Formats Reference
 
-This page lists the MusicBrainz release formats grouped into the meta-format buckets used by Limbo filtering.
+MusicBrainz release formats grouped by Limbo filter tokens
 
 Notes:
 
-- Meta-format keys are the filter tokens (shown in parentheses).
-- Format names are the exact MusicBrainz release format values.
-- Release counts are from the local MusicBrainz mirror, as of 2026-03-19.
-- Counts are distinct release totals per format (`COUNT(DISTINCT medium.release)`).
-- Substring matching is supported by the filter engine on expanded aliases.
-- Some formats are intentional aliases (for example, `CD` and `Compact Disc`); these remain listed as distinct values.
+- **Release counts are from the MusicBrainz database, as of 2026-03-19**
+- List headings: LIMBO FILTER TAG (meta_format_name)
+- Individual format names are exact MusicBrainz release format values
+- Release counts are distinct, named releases, per format
+- Some formats are intentional aliases (example, `CD` and `Compact Disc`)
 
 ## Digital
 
